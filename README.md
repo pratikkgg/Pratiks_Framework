@@ -1,2 +1,2 @@
 # Pratik
- i have creaed this repository because cmd methods are very comlicated so lets give it a try
+ i have created this project for end to end flow of an e-commerce website
